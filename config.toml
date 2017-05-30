@@ -11,17 +11,17 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "About"
+    name = "About Me"
     url = "/about/"
 [[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
+    name = "My GitHub"
+    url = "http://drkamarul.github.io/"
 [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    name = "My Twitter"
+    url = "https://twitter.com/kamarul_imran"
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "A personal website of Kamarul Imran Musa built through Hugo and blogdown with the helps of rbind community."
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.11.0"
