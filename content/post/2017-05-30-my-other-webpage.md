@@ -8,4 +8,4 @@ categories:
 tags: []
 ---
 
-You can find my other webpage at <www.myanalytics.com.my>
+You can find my other webpage at [www.myanalytics.com.my](www.myanalytics.com.my)
