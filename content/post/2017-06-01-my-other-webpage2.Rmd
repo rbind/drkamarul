@@ -1,0 +1,11 @@
+---
+title: This is my other webpage
+author: Kamarul Imran
+date: '2017-06-01'
+slug: my-other-webpage
+categories:
+  - Thoughts
+tags: []
+---
+
+You can find my other webpage at <http://myanalytics.com.my>
