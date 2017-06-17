@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thoughts on Kamarul&#39;s website</title>
+    <link>/categories/thoughts/</link>
+    <description>Recent content in Thoughts on Kamarul&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>This is my other webpage</title>
+      <link>/2017/06/01/my-other-webpage/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/06/01/my-other-webpage/</guid>
+      <description>You can find my other webpage at http://myanalytics.com.my</description>
+    </item>
+    
+    <item>
+      <title>A little bit about myself</title>
+      <link>/2017/05/30/a-little-bit-about-myself/</link>
+      <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/05/30/a-little-bit-about-myself/</guid>
+      <description>I am an academician cum a scientist with a background in medicine. Currently, I am an Associate Professor in a large medical school in a well known public university in Malaysia. I am also a gazetted Public Health Physician.
+I am interested in disease modelling using the right blend of epidemiological and statistical modelling, intuitive data analysis and proper research designs. I obtained my Doctor of Medicine degree, then later the post graduate Masters In Community Medicine (Epidemiology and Biostatistics).</description>
+    </item>
+    
+  </channel>
+</rss>
