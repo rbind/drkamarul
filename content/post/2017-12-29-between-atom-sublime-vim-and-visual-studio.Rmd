@@ -15,6 +15,6 @@ I am compiling a few webpages that discuss the advantages and disadvantages of s
 2.  <https://comparisons.financesonline.com/atom-software-vs-sublime-text>
 3.  <https://blog.takipi.com/sublime-vs-atom-text-editor-battles/>
 
-<center>![Atom vs Sublime](/images/atom-sublime.jpg){width=30%}</center>
+<center>![Atom vs Sublime](/images/atom-sublime.jpg){width=60%}</center>
 
 
