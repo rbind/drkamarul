@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown on Kamarul&#39;s website</title>
-    <link>/categories/markdown/</link>
+    <link>/tags/markdown/</link>
     <description>Recent content in Markdown on Kamarul&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/markdown/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       <guid>/2017/12/29/between-atom-sublime-vim-and-visual-studio/</guid>
       <description>I am compiling a few webpages that discuss the advantages and disadvantages of some markdown editors. They are:
  https://www.codementor.io/mattgoldspink/best-text-editor-atom-sublime-vim-visual-studio-code-du10872i7 https://comparisons.financesonline.com/atom-software-vs-sublime-text https://blog.takipi.com/sublime-vs-atom-text-editor-battles/  </description>
-    </item>
-    
-    <item>
-      <title>Markdown editors</title>
-      <link>/2017/12/25/markdown-editors/</link>
-      <pubDate>Mon, 25 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/2017/12/25/markdown-editors/</guid>
-      <description>I am impressed with markdown. It is easy to work with. And you use pandoc you can export md to different format.
-The markdown editors that I love are:
- Rmarkdown : http://rmarkdown.rstudio.com/ atom.io : https://atom.io/ typosa : https://typora.io/  I love Rmarkdown the most. It can handle latex and use pandoc. If you want to know the power of Rmarkdown against other markdown editors, head here https://bookdown.org/yihui/blogdown/output-format.html</description>
     </item>
     
   </channel>
