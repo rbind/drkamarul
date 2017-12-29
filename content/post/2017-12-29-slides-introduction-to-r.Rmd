@@ -11,4 +11,4 @@ tags:
 
 These are my slides on Introduction to R. They were old slides, unfortunately. Lots have changed. Here is the link to the slide <https://www.slideshare.net/kamarulimran/introducing-the-r-software>
 
-1[Source: <https://xkcd.com/688/>](/images/self_description.png)
+![Source: XKCD](/images/self_description.png)
