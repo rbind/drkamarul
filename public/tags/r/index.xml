@@ -6,10 +6,20 @@
     <description>Recent content in R on Kamarul&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Slides - Introduction to R </title>
+      <link>/2017/12/29/slides-introduction-to-r/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/12/29/slides-introduction-to-r/</guid>
+      <description>These are my slides on Introduction to R. They were old slides, unfortunately. Lots have changed. Here is the link to the slide https://www.slideshare.net/kamarulimran/introducing-the-r-software
+1Source: &amp;lt;https://xkcd.com/688/&amp;gt;</description>
+    </item>
     
     <item>
       <title>R - An Introduction</title>
