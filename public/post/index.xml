@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Kamarul&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sample size webpages</title>
+      <link>/2018/01/03/sample-size-webpages/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/03/sample-size-webpages/</guid>
+      <description>There are very strong proponents for sample size calculation in research proposal. And also, there are various approaches to calculate sample size. For example, to calculate the sample size in a study that wants
+to estimate the prevalenceto compare the mean difference between 2 treatments or groupsto estimate the correlation between 2 numerical variablesPreviously, I showed and calculated for my clients/students but recently, I have changed my style.</description>
+    </item>
     
     <item>
       <title>Between atom, sublime, vim and visual studio</title>

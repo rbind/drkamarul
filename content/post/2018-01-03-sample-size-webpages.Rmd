@@ -1,0 +1,25 @@
+---
+title: Sample size webpages
+author: ''
+date: '2018-01-03'
+slug: sample-size-webpages
+categories:
+  - Sample size
+tags:
+  - sample size
+---
+
+There are very strong proponents for sample size calculation in research proposal. And also, there are various approaches to calculate sample size. For example, to calculate the sample size in a study that wants
+
+1.  to estimate the prevalence
+2.  to compare the mean difference between 2 treatments or groups
+3.  to estimate the correlation between 2 numerical variables
+
+Previously, I showed and calculated for my clients/students but recently, I have changed my style. I navigated them to various websites that offer sample size calculator. I teach them the concepts and I encourage them to calculate the sample size using those calculators. If they need to verify the results, they can always come back to me ..... 
+
+So, for the specific objectives list above, the corresponding webpage is listed
+
+1.  <http://epitools.ausvet.com.au/content.php?page=1Proportion>
+2.  <http://www.openepi.com/SampleSize/SSMean.htm>
+3.  <https://www2.ccrb.cuhk.edu.hk/stat/other/correlation.htm>
+
